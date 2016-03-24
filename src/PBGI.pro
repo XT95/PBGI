@@ -2,7 +2,7 @@ TEMPLATE = app
 CONFIG -= app_bundle
 CONFIG -= qt
 
-INCLUDEPATH += ../dependencies/include
+INCLUDEPATH += ../3rdparty/include
 QMAKE_CXXFLAGS += -DGLM_FORCE_RADIANS
 
 win32 {

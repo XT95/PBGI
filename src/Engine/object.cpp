@@ -51,7 +51,7 @@ void Object::setTexture(Texture *tex)
 
 void Object::load(const std::string &filename, const std::string &path )
 {
-   std::vector<tinyobj::shape_t> m_shapes;
+    std::vector<tinyobj::shape_t> m_shapes;
 
     std::string err;
     bool ret = tinyobj::LoadObj(m_shapes, m_materials, err, filename.c_str(), path.c_str(), false);

@@ -2,7 +2,7 @@
 #define DEMO_H
 
 #include <glm/glm.hpp>
-#include "Engine/SceneManager.h"
+#include "Engine/scenemanager.h"
 #include "Engine/camera.h"
 #include "Engine/light.h"
 #include "GI/radiosity.h"

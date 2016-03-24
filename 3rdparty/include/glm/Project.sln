@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{E1BDEC71-5D75-43D1-8EA9-30826B56CE8B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{08FC5884-313D-4AD4-A7C1-75A75F1C6FB5} = {08FC5884-313D-4AD4-A7C1-75A75F1C6FB5}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "ZERO_CHECK.vcxproj", "{08FC5884-313D-4AD4-A7C1-75A75F1C6FB5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		MinSizeRel|Win32 = MinSizeRel|Win32
+		RelWithDebInfo|Win32 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1BDEC71-5D75-43D1-8EA9-30826B56CE8B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1BDEC71-5D75-43D1-8EA9-30826B56CE8B}.Release|Win32.ActiveCfg = Release|Win32
+		{E1BDEC71-5D75-43D1-8EA9-30826B56CE8B}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{E1BDEC71-5D75-43D1-8EA9-30826B56CE8B}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{08FC5884-313D-4AD4-A7C1-75A75F1C6FB5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{08FC5884-313D-4AD4-A7C1-75A75F1C6FB5}.Debug|Win32.Build.0 = Debug|Win32
+		{08FC5884-313D-4AD4-A7C1-75A75F1C6FB5}.Release|Win32.ActiveCfg = Release|Win32
+		{08FC5884-313D-4AD4-A7C1-75A75F1C6FB5}.Release|Win32.Build.0 = Release|Win32
+		{08FC5884-313D-4AD4-A7C1-75A75F1C6FB5}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{08FC5884-313D-4AD4-A7C1-75A75F1C6FB5}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{08FC5884-313D-4AD4-A7C1-75A75F1C6FB5}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{08FC5884-313D-4AD4-A7C1-75A75F1C6FB5}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

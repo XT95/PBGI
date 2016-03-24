@@ -1,0 +1,2 @@
+C:/Coding/Librarys/include/glm/CMakeFiles/ALL_BUILD.dir
+C:/Coding/Librarys/include/glm/CMakeFiles/ZERO_CHECK.dir

@@ -2,6 +2,9 @@
 
 <img src="http://www.aduprat.com/pub/pbgi.jpg">
 
+* [Youtube demo](https://www.youtube.com/watch?v=tEFx9h9ZG-c)
+* [Article](http://www.aduprat.com/portfolio/?page=articles/PBGI)
+
 ## Setup:
 
 Dependencies:

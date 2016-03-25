@@ -12,7 +12,7 @@ LIBS        += -lglew32 -lGLFW3 -lopengl32 -lgdi32 -mwindows
 }
 
 linux {
-LIBS        +=  -lGLEW -lglfw3 -lGL -lm -ldl -lXinerama -lXrandr -lXi -lXcursor -lX11 -lXxf86vm -lpthread
+LIBS        +=  -lGLEW -lglfw -lGL -lm -ldl -lXinerama -lXrandr -lXi -lXcursor -lX11 -lXxf86vm -lpthread
 }
 
 SOURCES += \
